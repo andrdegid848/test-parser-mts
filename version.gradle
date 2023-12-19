@@ -1,0 +1,5 @@
+ext {
+    versions = [
+        jsoup: '1.16.1'
+    ]
+}
